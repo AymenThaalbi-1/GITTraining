@@ -27,6 +27,7 @@ class TestExample:
 
     def test_fixture_demo1(self):
         print("i will execute steps in fixture demo method1")
+        print("Developper 2 has added this line to the code")
 
     def test_fixture_demo2(self):
         print("i will execute steps in fixture demo method2")
