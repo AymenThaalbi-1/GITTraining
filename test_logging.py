@@ -18,4 +18,4 @@ def test_loggingDemo():
     logger.info("Information statement")
     logger.warning("Alert warning mode")
     logger.error("A major error happened")
-    logger.critical("critical issue, system will stop execution")
+    logger.critical("critical issue, system will stop execution, please verify your system settings")
