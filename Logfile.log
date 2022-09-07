@@ -1,0 +1,53 @@
+2022-08-23 21:20:57,769 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 21:20:57,769 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 21:20:57,770 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 21:20:57,770 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 21:53:37,805 :INFO : PytestDemo.BaseClass :Rahul
+2022-08-23 21:54:58,601 :INFO : PytestDemo.BaseClass :Rahul
+2022-08-23 21:54:58,601 :INFO : PytestDemo.BaseClass :rahulshettyacademy.com
+2022-08-23 21:57:36,853 :INFO : test_EditProfile :Rahul
+2022-08-23 21:57:36,853 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:00:31,159 :INFO : test_EditProfile :Rahul
+2022-08-23 22:00:31,159 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:00:31,166 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:00:31,167 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:00:31,167 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:00:31,167 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 22:02:05,527 :INFO : test_EditProfile :Rahul
+2022-08-23 22:02:05,527 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:02:05,533 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:02:05,533 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:02:05,533 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:02:05,533 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 22:04:40,074 :INFO : test_EditProfile :Rahul
+2022-08-23 22:04:40,074 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:04:47,488 :INFO : test_EditProfile :Rahul
+2022-08-23 22:04:47,488 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:04:47,495 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:04:47,495 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:04:47,495 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:04:47,495 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 22:06:07,163 :INFO : test_EditProfile :Rahul
+2022-08-23 22:06:07,163 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:06:07,168 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:06:07,169 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:06:07,169 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:06:07,169 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 22:06:12,795 :INFO : test_EditProfile :Rahul
+2022-08-23 22:06:12,796 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:06:12,802 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:06:12,802 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:06:12,802 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:06:12,802 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 22:12:08,868 :INFO : test_EditProfile :Rahul
+2022-08-23 22:12:08,868 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:12:08,871 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:12:08,871 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:12:08,872 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:12:08,872 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
+2022-08-23 22:19:17,121 :INFO : test_EditProfile :Rahul
+2022-08-23 22:19:17,121 :INFO : test_EditProfile :rahulshettyacademy.com
+2022-08-23 22:19:17,124 :INFO : PytestDemo.test_logging :Information statement
+2022-08-23 22:19:17,124 :WARNING : PytestDemo.test_logging :Alert warning mode
+2022-08-23 22:19:17,125 :ERROR : PytestDemo.test_logging :A major error happened
+2022-08-23 22:19:17,125 :CRITICAL : PytestDemo.test_logging :critical issue, system will stop execution
